@@ -3,8 +3,7 @@
 // CS112 HW1
 // Max Luttrell, City College of San Francisco
 //
-// put your name here
-
+// Arthur Francisco
 // don't remove this line
 import UIKit
 
