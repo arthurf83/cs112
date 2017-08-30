@@ -3,17 +3,10 @@
 // CS112 HW1
 // Max Luttrell, City College of San Francisco
 //
-// put your name here
-
+// Arthur Francisco
 // don't remove this line
 import UIKit
 
-// the code below will generate a random number between 1 and 20 and store it in a constant
-// named numFriends.  don't change this line.  you should see a random number between 1 and 
-// 20 on the right panel of the playground (it might take a little while to appear when you
-// first load this playground).  to get a new random number, you can select
-// Editor -> Execute Playground.  also, any time you add or remove some code to the 
-// playground, you should get a new random number.
 let numFriends = Int(arc4random() % 20) + 1
 
 // 1.  using let, create a constant called numCookiesEach and set it to 3
